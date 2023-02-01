@@ -22,7 +22,7 @@ The client will be running on http://localhost:3000
 ## Features
 Multiplayer bingo game
 Real-time updates using socket.io
-Declare BINGO wniiner by Horizontal,Diagonal,Verical positions selection
+Declare BINGO winner by Horizontal,Diagonal,Verical positions selection
 Deployed at Heroku  at "https://bingo-multiplayer-app.herokuapp.com/"
 
 ## Stack
